@@ -26,3 +26,13 @@ You can find me on:
 * [hackaday](https://www.hackaday.io/samueleisalinuxuser)
 
 * [telegram](https://t.me/samueleisalinuxuser)
+
+My certificates:
+
+* Pet english certificate
+
+* First english certificate
+
+* [Python 3](https://www.sololearn.com/Certificate/1073-19920923/pdf)
+
+* [HTML](https://www.sololearn.com/Certificate/1014-19920923/pdf)
