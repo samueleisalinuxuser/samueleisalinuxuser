@@ -23,4 +23,4 @@ You can find me on:
 
 * [hackaday](https://www.hackaday.io/samueleisalinuxuser)
 
-* [telegram](t.me/samueleisalinuxuser)
+* [telegram](https://t.me/samueleisalinuxuser)
