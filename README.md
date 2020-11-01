@@ -21,7 +21,7 @@ You can find me on:
 
 * [mbed](https://os.mbed.com/users/samueleisalinuxuser)
 
-* [on the arduino website]()
+* [arduino]()
 
 * [hackaday](https://www.hackaday.io/samueleisalinuxuser)
 
