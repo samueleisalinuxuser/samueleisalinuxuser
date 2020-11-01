@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there I'm Samuele,
+I love competitive challenges, linux, mbed devices, hardware hacking, drones, robotics and 3d printing
 
-<!--
-**samueleisalinuxuser/samueleisalinuxuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I program in:
 
-Here are some ideas to get you started:
+* python
+* C
+* brainfuck
+* bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+You can find me on:
+
+* [codeforces](https://codeforces.com/profile/samueleisalinuxuser)
+
+* [sololearn](https://www.sololearn.com/Profile/19920923)
+
+* [easyeda](https://easyeda.com/samueleisalinuxuser)
+
+* [mbed](https://os.mbed.com/users/samueleisalinuxuser)
+
+* [on the arduino website]()
+
+* [hackaday](https://www.hackaday.io/samueleisalinuxuser)
+
+* [telegram](honestly it is a bit more personal, so I'm not sure to share the link, however you can easily imagine what is)
