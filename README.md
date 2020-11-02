@@ -36,3 +36,7 @@ My certificates:
 * [Python 3](https://www.sololearn.com/Certificate/1073-19920923/pdf)
 
 * [HTML](https://www.sololearn.com/Certificate/1014-19920923/pdf)
+
+* ECDL Standard
+
+* ECDL Full Standard
