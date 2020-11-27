@@ -4,7 +4,7 @@ About me:
 
 * My interests
 
-  * competitive challenges
+  * coding challenges
   * linux
   * mbed devices
   * hardware hacking
