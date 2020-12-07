@@ -29,7 +29,7 @@ About me:
   * [mbed](https://os.mbed.com/users/samueleisalinuxuser)
   * [arduino]()
   * [hackaday](https://www.hackaday.io/samueleisalinuxuser)
-  * [stack overflow] (https://stackoverflow.com/users/14782088/samueleisalinuxuser)
+  * [stack overflow](https://stackoverflow.com/users/14782088/samueleisalinuxuser)
   * [telegram](https://t.me/samueleisalinuxuser)
 
 * My certificates:
