@@ -30,6 +30,7 @@ About me:
   * [arduino]()
   * [hackaday](https://www.hackaday.io/samueleisalinuxuser)
   * [stack overflow](https://stackoverflow.com/users/14782088/samueleisalinuxuser)
+  * [hackthebox](https://www.hackthebox.eu/profile/466771)
   * [telegram](https://t.me/samueleisalinuxuser)
 
 * My certificates:
