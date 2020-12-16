@@ -37,6 +37,7 @@ About me:
 
   * Pet english certificate
   * First english certificate
+  * [C](https://www.sololearn.com/Certificate/1089-19920923/pdf)
   * [Python 3](https://www.sololearn.com/Certificate/1073-19920923/pdf)
   * [HTML](https://www.sololearn.com/Certificate/1014-19920923/pdf)
   * ECDL Standard
