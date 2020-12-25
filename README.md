@@ -40,5 +40,6 @@ About me:
   * [C](https://www.sololearn.com/Certificate/1089-19920923/pdf)
   * [Python 3](https://www.sololearn.com/Certificate/1073-19920923/pdf)
   * [HTML](https://www.sololearn.com/Certificate/1014-19920923/pdf)
+  * [Impara Linux da zero: LPI Linux Essentials (Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6ba05ac4-f968-48e4-a191-ada816610033.pdf)
   * ECDL Standard
   * ECDL Full Standard
