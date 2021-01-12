@@ -1,5 +1,5 @@
-[![Samuele's github stats](https://github-readme-stats.vercel.app/api?username=samueleisalinuxuser)](https://github.com/anuraghazra/github-readme-stats)
-[![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueleisalinuxuser)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuele's github stats](https://github-readme-stats.vercel.app/api?username=samueleisalinuxuser&count_private=trueshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samueleisalinuxuser&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi there I'm Samuele, also known as samueleisalinuxuser in the web.
 
