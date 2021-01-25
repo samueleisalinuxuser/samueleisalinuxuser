@@ -32,7 +32,7 @@ About me:
   * [stack overflow](https://stackoverflow.com/users/14782088/samueleisalinuxuser)
   * [hack the box](https://www.hackthebox.eu/profile/466771)
   * [asciinema](https://asciinema.org/~samisalinuxuser)
-  * [matrix](@samlnxusr:matrix.org)
+  * [matrix](https://matrix.to/#/@samlnxusr:matrix.org)
   * [telegram](https://t.me/samueleisalinuxuser)
 
 * My certificates:
