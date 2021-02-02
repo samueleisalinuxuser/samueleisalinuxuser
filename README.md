@@ -22,6 +22,7 @@ About me:
 
 * You can find me on: (I have to admit that I'm not very active on the web)
 
+  * [gitlab](https://gitlab.com/samueleisalinuxuser)
   * [codeforces](https://codeforces.com/profile/samueleisalinuxuser)
   * [project euler]()
   * [sololearn](https://www.sololearn.com/Profile/19920923)
